@@ -1,0 +1,6 @@
+c:\users\dawn\documents\visual studio 2012\Projects\myers_InClass6\myers_InClass6\bin\Debug\myers_InClass6.exe.config
+C:\Users\Dawn\Documents\Visual Studio 2012\Projects\myers_InClass6\myers_InClass6\bin\Debug\myers_InClass6.exe
+C:\Users\Dawn\Documents\Visual Studio 2012\Projects\myers_InClass6\myers_InClass6\bin\Debug\myers_InClass6.pdb
+C:\Users\Dawn\Documents\Visual Studio 2012\Projects\myers_InClass6\myers_InClass6\obj\Debug\myers_InClass6.csprojResolveAssemblyReference.cache
+C:\Users\Dawn\Documents\Visual Studio 2012\Projects\myers_InClass6\myers_InClass6\obj\Debug\myers_InClass6.exe
+C:\Users\Dawn\Documents\Visual Studio 2012\Projects\myers_InClass6\myers_InClass6\obj\Debug\myers_InClass6.pdb
